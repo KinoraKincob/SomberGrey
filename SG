@@ -1,0 +1,7 @@
+function f(value:number|string){
+  if(typeof value==='number'){
+   // value : number
+  }else {
+   // value : string
+  }
+}
